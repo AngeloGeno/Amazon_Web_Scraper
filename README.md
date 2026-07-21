@@ -1,4 +1,4 @@
-<img width="805" height="517" alt="image" src="https://github.com/user-attachments/assets/fe5e96ed-13b8-410f-9be4-701b6cdc4b1c" /># Amazon_Web_Scraper
+ Amazon_Web_Scraper
 A Python web scraper that collects instant coffee product data from Amazon using Playwright for browser automation and BeautifulSoup for HTML parsing.
 ---
 
